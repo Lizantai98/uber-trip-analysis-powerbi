@@ -42,7 +42,7 @@ Value and distance measures count completed ("Success") rides only, so cancelled
 - Rolling 7-Day Avg = AVERAGEX(DATESINPERIOD(Calendar[Date], MAX(Calendar[Date]), -7, DAY), [Total Bookings])
 
 ## Key findings
-###Overview
+### Overview
 
 <img width="1439" height="808" alt="image" src="https://github.com/user-attachments/assets/58975963-9603-4ce3-b5ec-2612c373cf31" />
 
@@ -51,7 +51,7 @@ Value and distance measures count completed ("Success") rides only, so cancelled
 - Completed bookings are worth 35.1M. Cash (19.3M) and UPI (14.2M) make up about 95% of it.
 - Demand is spread evenly across the city: the top 10 pickup areas each have 2,100 to 2,201 bookings.
 
-###Demand Trends
+### Demand Trends
 
 <img width="1447" height="805" alt="image" src="https://github.com/user-attachments/assets/f92aa5d1-81fd-4dc2-8854-29283e84d869" />
 
