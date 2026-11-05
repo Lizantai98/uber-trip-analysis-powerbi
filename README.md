@@ -66,7 +66,7 @@ Value and distance measures count completed ("Success") rides only, so cancelled
 
 ### Cancellations
 
-![Uploading image.png…]()
+<img width="1437" height="808" alt="image" src="https://github.com/user-attachments/assets/5630a92f-f494-48e9-b478-b229e779f922" />
 
 - 38% of total booking value (21.5M of 56.5M) never becomes a ride: 10.2M from driver cancellations, 5.8M from customer cancellations and 5.5M from bookings with no driver found.
 - Driver cancellations (17.9% of bookings) outnumber customer cancellations (10.2%). The top driver reason is personal and car-related issues (6,542).
