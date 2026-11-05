@@ -61,6 +61,7 @@ Value and distance measures count completed ("Success") rides only, so cancelled
 
 ### Ride Insights
 
+<img width="1440" height="805" alt="image" src="https://github.com/user-attachments/assets/33be944e-042f-4f83-afb3-527142e056a2" />
 
 - 93.9% of confirmed rides complete. The 3,926 incomplete rides come from customer demand (1,601), vehicle breakdowns (1,591) and other issues (734).
 - Autos run much shorter rides (about 10 distance units against about 25 for other vehicles) at a similar average booking value, so they earn 54.9 per distance unit against 21.6 to 22.3 for the rest.
