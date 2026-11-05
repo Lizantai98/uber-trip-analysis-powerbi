@@ -52,6 +52,7 @@ Value and distance measures count completed ("Success") rides only, so cancelled
 
 ###Demand Trends
 
+<img width="1447" height="805" alt="image" src="https://github.com/user-attachments/assets/f92aa5d1-81fd-4dc2-8854-29283e84d869" />
 
 - Demand is steady at about 3,323 bookings a day, ranging from 3,072 to 3,432. The peak is 30 July and the lowest day is 31 July.
 - Weekdays average 3,333 and weekends 3,294. There is a mild Sunday dip: three of the five quietest days are Sundays.
