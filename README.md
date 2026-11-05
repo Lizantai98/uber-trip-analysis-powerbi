@@ -44,6 +44,7 @@ Value and distance measures count completed ("Success") rides only, so cancelled
 ## Key findings
 ###Overview
 
+<img width="1439" height="808" alt="image" src="https://github.com/user-attachments/assets/58975963-9603-4ce3-b5ec-2612c373cf31" />
 
 - Only 62.1% of bookings become rides (63,967 of 103,024). 28.1% are cancelled and 9.8% never get a driver.
 - 58.3% of all bookings (60,041) finish with no incident.
