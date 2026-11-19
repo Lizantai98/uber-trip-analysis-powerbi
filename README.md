@@ -82,4 +82,4 @@ Value and distance measures count completed ("Success") rides only, so cancelled
 - Demand by hour, vehicle mix and ratings are nearly uniform, which is typical of a generated practice dataset. No conclusions are drawn from them.
 
 ## Author
-Elizabeth Antai, Data Analyst | www.linkedin.com/in/elizabeth-antai/ | github.com/Lizantai98
+Elizabeth Antai, Data Analyst | [LinkedIn](https://www.linkedin.com/in/elizabeth-antai/) | [GitHub](https://github.com/Lizantai98)
